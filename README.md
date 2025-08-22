@@ -5,7 +5,7 @@ This tool is using python3
 
 
 ```bash
-git clone https://github.com/J4ncoksozan/blacarmy.git
+git clone https://github.com/J4ncoksozan/blackarmy.git
 ```
 
 ## Usage
